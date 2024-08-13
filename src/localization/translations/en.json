@@ -1,0 +1,17 @@
+{
+    "language": "english",
+    "direction": "ltr",
+    "screens": {
+        "home": {
+            "title": "title",
+            "currency":"title",
+            "volume":"title",
+            "lastPrice":"title",
+            "24Hours":"title",
+            "searchMarkets":"title"
+        }
+    },
+    "farsi":"farsi",
+    "english":"english",
+    "langAbr":"en"
+}

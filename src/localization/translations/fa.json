@@ -1,0 +1,17 @@
+{
+    "language": "فارسی",
+    "direction": "rtl",
+    "screens": {
+        "home": {
+            "title": "عنوان",
+            "currency":"عنوان",
+            "volume":"عنوان",
+            "lastPrice":"عنوان",
+            "24Hours":"عنوان",
+            "searchMarkets":"عنوان"
+        }
+    },
+    "farsi":"فارسی",
+    "english":"لاتین",
+    "langAbr":"fa"
+}
